@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Syed Zaidi
+- 👋 Hi, I’m Syed Asad
 - 👀 I’m interested in ...Deep Learning Research
 - 🌱 I’m currently learning ...Artificial Neuron Networks, TensorFlow
 - 💞️ I’m looking to collaborate on ...Machine Learning & Artificial Intelligence
